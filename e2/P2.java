@@ -44,4 +44,22 @@ public static void main(String args[])
 	
 	}
 }
-//Output?
+/* OUTPUT
+enter number of rows 
+3
+enter elements to first matrix
+1 2 3 
+1 2 3
+1 2 3
+not a symmetric matrix
+
+case 2
+enter number of rows 
+3
+enter elements to first matrix
+1 7 3
+7 4 5
+3 5 0
+symmetric matrix
+*/
+
