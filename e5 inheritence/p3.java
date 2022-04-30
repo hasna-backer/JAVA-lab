@@ -1,3 +1,11 @@
+/*3. Write a program has classes Publisher, Book, Literature and Fiction. Read the
+information and print the details of books from either the category, using inheritance
+Class Publisher- Attribute PublisherName, Method display()
+Class Book subclass of Publisher- Attribute- Title, Author, Method display()
+Class Literature subclass of Book-Attribute-type, Method display()
+Class Fiction subclass of Book-Attribute-genre, Method display()
+*/
+
 import java.util.*;
 
 class Publisher
