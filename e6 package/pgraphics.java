@@ -47,3 +47,74 @@ class pgraphics
   } 
 
 }
+
+
+/*OUTPUT
+1.Rectangle
+2.Square
+3.Triangle
+4.Circle
+5.EXIT
+
+Enter choice : 
+1
+Enter Length and breadth of Rectangle:
+4
+6
+AREA OF RECTANGLE : 24
+1.Rectangle
+2.Square
+3.Triangle
+4.Circle
+5.EXIT
+
+Enter choice : 
+3
+Enter base and height of Triangle : 
+4
+6
+AREA OF TRIANGLE : 12.0
+1.Rectangle
+2.Square
+3.Triangle
+4.Circle
+5.EXIT
+
+Enter choice : 
+3
+Enter base and height of Triangle : 
+3
+3
+AREA OF TRIANGLE : 4.5
+1.Rectangle
+2.Square
+3.Triangle
+4.Circle
+5.EXIT
+
+Enter choice : 
+2
+Enter side of Square:
+4
+AREA OF SQUARE : 16
+1.Rectangle
+2.Square
+3.Triangle
+4.Circle
+5.EXIT
+
+Enter choice : 
+4
+Enter Radius of Circle :
+5
+AREA OF CIRCLE : 78.5
+1.Rectangle
+2.Square
+3.Triangle
+4.Circle
+5.EXIT
+
+Enter choice : 
+5
+EXITING... 
+
