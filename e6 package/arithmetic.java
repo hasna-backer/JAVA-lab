@@ -48,3 +48,77 @@ class arithmetic
 
 }
 
+
+
+
+
+
+/*OUTPUT
+
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.EXIT
+
+Enter choice : 
+1
+Enter 2 Numbers for operation:
+1
+3
+SUM OF NUMBERS : 4
+
+
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.EXIT
+
+Enter choice : 
+3
+Enter 2 Numbers for operation:
+3
+4
+PRODUCT OF NUMBERS : 12
+
+
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.EXIT
+
+Enter choice : 
+4
+Enter 2 Numbers for operation:
+5
+5
+QUOTIENT OF NUMBERS : 1
+
+
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.EXIT
+
+Enter choice : 
+2
+Enter 2 Numbers for operation:
+1
+9
+DIFFERENCE OF NUMBERS : -8
+
+
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.EXIT
+
+Enter choice : 
+5
+EXITING... 
+
+*/
