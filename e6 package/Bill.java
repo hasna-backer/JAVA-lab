@@ -68,3 +68,50 @@ public class b1 {
 			}
 		}
 }
+
+
+
+
+
+/*output
+ Enter no. of orders : 
+2
+ Enter no. of Products : 2
+ Enter Product 1 Name : soap
+ Enter Product ID: 111
+ Enter Product Quantity : 2
+ Enter Product Unit Price : 25
+ Enter Product 2 Name : bun
+ Enter Product ID: 222
+ Enter Product Quantity : 4
+ Enter Product Unit Price : 10
+ Enter no. of Products : 1
+ Enter Product 1 Name : fan
+ Enter Product ID: 234
+ Enter Product Quantity : 1
+ Enter Product Unit Price : 1256
+ 
+ 
+Order No : 1
+Fri May 27 11:41:09 IST 2022
+__________________________________________________________________________________________
+Product ID 	  Name 	      Quantity	    Unit Price	       Total 
+
+__________________________________________________________________________________________
+   111		   soap		  2		25		  50
+   222		   bun		  4		10		  40
+___________________________________________________________________________________________
+ Net Amount : 90
+___________________________________________________________________________________________
+Order No : 2
+Fri May 27 11:41:09 IST 2022
+__________________________________________________________________________________________
+Product ID 	  Name 	      Quantity	    Unit Price	       Total 
+
+__________________________________________________________________________________________
+   234		   fan		  1		1256		  1256
+___________________________________________________________________________________________
+ Net Amount : 1256
+___________________________________________________________________________________________
+
+*/
